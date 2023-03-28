@@ -3,7 +3,7 @@
 <em text-align="center">Conta dedicada a projetos da faculdade</em> 
 <br>
 <br>
-<a href="<a href="https://files.fm/u/swseg8rpt#/view/Screenshot_20230328_191944_Photos.jpg"><img src="https://files.fm/thumb_show.php?i=p3ueumqs5"></a>" height="200vh"></a><br>
+<a href="<a href="https://files.fm/u/swseg8rpt#/view/Screenshot_20230328_191944_Photos.jpg"><img src="https://files.fm/thumb_show.php?i=p3ueumqs5" height="200vh"></a><br>
 <br>
 <a href="https://www.instagram.com/joaspasqualetto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaoferreirapaula005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
