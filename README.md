@@ -12,7 +12,6 @@
 </section>
 <hr>
 <article>
-- 🔭 Em busca de oportunidades <br>
 - 🌱 Projetos em HTML <br>
 - 📫 Me encontre em: https://github.com/joas005 <br>
 </article>
