@@ -1,6 +1,6 @@
 <section align="center">
 <h1>Olá, eu sou o João 👋</h1>
-<em text-align="center">Jovem na área de Ti começando a jornada no mundo tech!</em> 
+<em text-align="center">Conta dedicada a projetos da faculdade</em> 
 <br>
 <br>
 <a href="https://files.fm/u/4rbrzp2pq#/view/20221224_210406_2.jpg"><img src="https://files.fm/thumb_show.php?i=venyc97c3" height="200vh"></a><br>
@@ -8,12 +8,13 @@
 <a href="https://www.instagram.com/joaspasqualetto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaoferreirapaula005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-victor-ferreira-de-paula-b59943261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/joas005" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </section>
 <hr>
 <article>
 - 🔭 Em busca de oportunidades <br>
 - 🌱 Atualmente aprendendo Python e JavaScript <br>
-- 📫 Me encontre em: joaoferreirapaula005@gmail.com <br>
+- 📫 Me encontre em: https://github.com/joas005 <br>
 </article>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Joas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |
